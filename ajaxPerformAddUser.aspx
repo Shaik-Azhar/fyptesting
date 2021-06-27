@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ajaxPerformAddUser.aspx.cs" Inherits="Asset_Tracking_System.ajaxPerformAddUser" %>

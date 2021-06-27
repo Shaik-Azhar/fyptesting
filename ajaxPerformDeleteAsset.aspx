@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ajaxPerformDeleteAsset.aspx.cs" Inherits="Asset_Tracking_System.ajaxPerformDeleteAsset" %>
